@@ -1,0 +1,18 @@
+class Footballer
+def initialize(number_of_goals,number_of_shots)
+end
+
+def goals
+@prem_leauge
+end
+
+def shots
+@champ_leauge
+end
+
+messi = Footballer.new(4,6)
+def messi.scores
+puts "Hala"
+end
+end
+
